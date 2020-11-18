@@ -12,6 +12,8 @@ group :jekyll_plugins do
   gem 'jekyll-multiple-languages-plugin', :git => 'https://github.com/Vik-Th0r/jekyll-multiple-languages-plugin'
   gem 'jekyll-paginate', '~> 1.1.0'
   gem 'jekyll-seo-tag', '~> 2.7.1'
+  gem 'jekyll-tagging'
+  gem 'jekyll-archives'
 end
 
 group :test do
