@@ -1,16 +1,17 @@
 ---
 layout: post
-title: dotCSS 2018, un très grand cru !
+title: dotCSS 2018, un très grand cru 
 excerpt: Retour sur l'édition 2018 de dotCSS, la plus grande conférence au monde sur le CSS. 
 authors:
     - seinhorn
 permalink: /fr/dotcss-2018-un-tres-grand-cru/
+lang: fr
 categories:
-    - Conférence
-    - CSS
+    - conference
+    - css
 tags:
-    - Conférence
-    - CSS
+    - conference
+    - css
     - Paris
     - 2018
     - Intégrateur web

@@ -4,11 +4,12 @@ title: "Anémie du domaine"
 excerpt: Souffrez-vous d'anémie métier ? Regardons ce qu'est une anémie du domaine et comment les choses peuvent changer.
 authors:
     - rpierlot
-lang: en
+lang: fr
 permalink: /domain-anemia/
 categories:
     - Non classé
-tags: []
+tags:
+    - notag
 cover: /assets/2020-10-13-anemic-domain-model/cover.jpg
 ---
 

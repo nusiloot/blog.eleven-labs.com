@@ -7,13 +7,13 @@ excerpt: "Gradle est un outil complexe dont la prise en main permet de faire de 
 authors:
     - babas
 categories:
-    - Android
+    - android
     - Kotlin
     - gradle
     - flavor
     - environnement
 tags:
-    - Android
+    - android
     - Kotlin
     - gradle
     - flavor
@@ -23,7 +23,7 @@ cover: /assets/2018-03-28-gestion-d-environnement-avec-gradle/cover.jpg
 
 
 ### Prérequis 
-- Android Studio
+- android Studio
 - Gradle version 3.0 ou +
 
 ## Introduction

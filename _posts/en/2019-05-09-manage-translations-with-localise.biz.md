@@ -2,9 +2,10 @@
 layout: post
 title: Managing translations with localise.biz
 excerpt: In this article I am going to introduce localise.biz - a SaaS tool to manage translations.
+lang: en
 authors:
 - marishka
-permalink: /en/manage-translations-with-localise.biz/
+permalink: /manage-translations-with-localise.biz/
 categories:
     - translations
     - intl

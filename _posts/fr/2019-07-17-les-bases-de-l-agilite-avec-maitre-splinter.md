@@ -23,7 +23,7 @@ Avant de parler plus en détail des projets et des types d’organisations adapt
 
 ![]({{site.baseurl}}/assets/2019-07-17-les-bases-de-l-agilite-avec-maitre-splinter/Splinter.jpg)
 
-## - Agile-Jutsu
+## - agile-Jutsu
     
 
 Les méthodes agiles font référence à des pratiques de pilotage et de réalisation de projets, initialement IT. Elles ont vu le jour en 2001 avec pour origine le [manifeste Agile](https://fr.wikipedia.org/wiki/Manifeste_Agile) et ont pour fondement un cycle de développement itératif (basé sur la répétition). L’idée étant de s’appuyer sur ces itérations pour adapter l’organisation et le développement dans une optique de constante amélioration. Autant d’un point de vue humain que technique.

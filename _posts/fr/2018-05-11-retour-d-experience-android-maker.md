@@ -7,13 +7,13 @@ excerpt: "Cette année a eu lieu la deuxième édition de l'Android Maker. Avec 
 authors:
     - babas
 categories:
-    - Android
+    - android
     - Kotlin
-    - Android Maker
+    - android Maker
 tags:
-    - Android
+    - android
     - Kotlin
-    - Android Maker
+    - android Maker
 cover: /img/covers/StockSnap_1S8SVUVUNU.jpg
 ---
 
@@ -68,7 +68,7 @@ C'était aussi l'occasion de nous partager quelques outils plutôt appréciables
  - Spoon, pour lancer l'exécution de tests
  - Composer, autre outil pour lancer l'exécution des tests mais fournissant un rapport plus facile à lire
  - Barrista, surcouche Espresso pour faciliter l'écriture de tests UI
- - Android test orchestrator, qui exécute les tests
+ - android test orchestrator, qui exécute les tests
 (à titre informatif parmi ces outils, Swarmer et Composer étaient les solutions retenues par leurs équipes)  
 
 Petit bémol de la présentation, et plus généralement de la solution, elle n'est viable que pour une stack Android, ce qui est dommage surtout lorsque comme LeBonCoin, on possède un écosystème comprenant les deux environnements iOS/Android.
