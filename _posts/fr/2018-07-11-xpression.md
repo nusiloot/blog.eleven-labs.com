@@ -2,7 +2,7 @@
 layout: post
 title: "Présentation de la librairie PHP Xpression"   
 lang: fr
-permalink: /fr/presentation-php-xpression/  
+permalink: /presentation-php-xpression/  
 excerpt: "En tant que développeur nous avons tous déjà eu besoin de filtrer un jeu de donnés (array, collection, API etc...). Nous allons découvrir la librairie Xpression qui va nous permettre de filtrer différents contenus avec une syntaxe simplifiée."
 authors:  
     - amoutte  

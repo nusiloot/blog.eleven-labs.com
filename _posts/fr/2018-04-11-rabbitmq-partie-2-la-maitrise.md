@@ -2,7 +2,7 @@
 layout: post  
 title: RabbitMQ des bases à la maîtrise (Partie 2)   
 lang: fr  
-permalink: /fr/rabbitmq-partie-2-la-maitrise/  
+permalink: /rabbitmq-partie-2-la-maitrise/  
 excerpt: "Les policies, le retry (dead letter, poison message)... en avant pour l'utilisation avancée de RabbitMQ."  
 authors:  
     - amoutte  
