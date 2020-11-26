@@ -2,7 +2,7 @@
 layout: post
 title: "Renforcer la confidentialité d'une API avec sapient-bundle"   
 lang: fr
-permalink: /renforcer-confidentialite-api-sapient-bundle/  
+permalink: /fr/renforcer-confidentialite-api-sapient-bundle/  
 excerpt: "Avec la popularisation et la simplicité de la mise en place du protocole HTTPS, la sécurisation de données sur internet apparaît comme à la portée de tous. Il reste néanmoins critique d’être conscient des failles qui existent encore. Avec libsodium, nous allons renforcer la confidentialité des échanges de données en toute simplicité."
 authors:  
     - tthuon  

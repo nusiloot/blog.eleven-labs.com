@@ -5,7 +5,7 @@ excerpt: OpenPGP ne s'appuie pas sur une autorité de certification pour certifi
 authors:
     - tthuon
 lang: fr    
-permalink: /openpgp-clef-participe-a-une-fete-de-la-signature-des-clefs/
+permalink: /fr/openpgp-clef-participe-a-une-fete-de-la-signature-des-clefs/
 categories:
     - openpgp
     - securite

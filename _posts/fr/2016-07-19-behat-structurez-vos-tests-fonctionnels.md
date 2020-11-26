@@ -2,7 +2,7 @@
 layout: post
 title: 'Behat : structurez vos tests fonctionnels'
 lang: fr
-permalink: /behat-structurez-vos-tests-fonctionnels/
+permalink: /fr/behat-structurez-vos-tests-fonctionnels/
 authors: 
     - vcomposieux
 date: '2016-07-19 10:16:11 +0200'

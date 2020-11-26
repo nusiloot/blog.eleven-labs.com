@@ -2,7 +2,7 @@
 layout: post
 title: "Retours sur la dotScale 2017"
 lang: fr
-permalink: /retours-sur-la-dotscale-2017/
+permalink: /fr/retours-sur-la-dotscale-2017/
 authors: 
     - vcomposieux
 date: '2017-05-09 12:00:00 +0100'

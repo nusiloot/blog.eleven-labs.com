@@ -2,7 +2,7 @@
 layout: post
 title: "Symfony Messenger"   
 lang: fr
-permalink: /symfony-messenger/  
+permalink: /fr/symfony-messenger/  
 excerpt: "Nous allons voir comment utiliser le nouveau composant Messenger de Symfony"
 authors:  
     - amoutte

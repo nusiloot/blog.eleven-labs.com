@@ -5,7 +5,7 @@ excerpt: Souffrez-vous d'anémie métier ? Regardons ce qu'est une anémie du do
 authors:
     - rpierlot
 lang: fr
-permalink: /domain-anemia/
+permalink: /fr/domain-anemia/
 categories:
     - Non classé
 tags:
